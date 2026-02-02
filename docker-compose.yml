@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   audio-bot:
     image: kdidtech/discord-audio-bot:latest
